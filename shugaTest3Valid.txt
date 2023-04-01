@@ -1,0 +1,19 @@
+shugaTest3.txt contains:
+i 2
+i 1
+i 5
+i 0
+i 3
+i 6
+i 4
+i 7
+p
+d 5
+p
+q
+ 0 1 2 3 4 5 6 7 
+ 0 1 2 3 4 6 7 
+left children:          2
+left depth:             2
+right children:         4
+right depth:            3

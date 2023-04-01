@@ -1,0 +1,16 @@
+shugaTest2.txt contains:
+i 50
+i 20
+i 60
+i 10
+i 30
+p
+d 50
+p
+q
+ 10 20 30 50 60 
+ 10 20 30 60 
+left children:          2
+left depth:             2
+right children:         1
+right depth:            1
